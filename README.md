@@ -5,7 +5,7 @@
 - I’m always learning about something new ... 🌱
 
 `✨ My skills ✨`  
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,serverless,kubernetes,docker,gcp,aws,performance&theme=light)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,kubernetes,docker,gcp,aws,performance&theme=light)
 
 `📫 Follow me`  
 [![Twitter follow @ddobrion](https://img.shields.io/twitter/follow/sivalabs?style=social)](https://twitter.com/ddobrin) &nbsp;
