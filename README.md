@@ -1,9 +1,10 @@
 ### Hi there 👋
 - I'm Dan
-- I'm currently working as an Enterprise App Mod Architect for Google Cloud ☁️
+- I'm currently working as an Enterprise App Architect for Google Cloud ☁️
 - I enjoy finding solutions to problems raised by fellow developers and architects... and making some demos for them... and making them run fast... 🏎
 - I’m always learning about something new ... 🌱
-- Last-drop serverless optimization is my current fun...🤔
+- Generative AI in the enterprise opens up endless possibilities 🆒
+- Last-drop serverless optimization is so fun...🤔
 
 `✨ My skills ✨`  
 
