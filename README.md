@@ -14,6 +14,10 @@
 
 [![Twitter follow @ddobrin](https://img.shields.io/twitter/follow/ddobrin?style=social)](https://twitter.com/ddobrin) &nbsp;
 
-[![Linkedin follow dan-dobrin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dan-dobrin) &nbsp;
+<p align=”center”>
+<a href=”LinkedIn profile URL”>
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+</p>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fddobrins&label=%F0%9F%8F%A1%20visitors&labelColor=%232ccce4&countColor=%23dce775&style=flat-square)
