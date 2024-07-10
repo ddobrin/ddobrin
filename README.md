@@ -3,8 +3,8 @@
 - I'm currently working as an Enterprise App Architect for Google Cloud ☁️
 - I enjoy finding solutions to problems raised by fellow developers and architects... and building some materials for them... then making them run really fast... 🏎
 - I’m always learning about something new ... 🌱
-- Generative AI in the enterprise opens up endless possibilities 🆒
-- Last-drop serverless optimization is so fun...🤔
+- Generative AI in the Enterprise opens up endless possibilities 🆒
+- Last-drop serverless optimization is so much fun...🤔
 
 `✨ My skills ✨`  
 
