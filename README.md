@@ -1,14 +1,14 @@
 ### Hi there 👋
 - I'm Dan
-- I'm currently working as an Enterprise App Architect for Google Cloud ☁️
-- I enjoy finding solutions to problems raised by fellow developers and architects... and building some materials for them... then making them run really fast... 🏎
-- I’m always learning about something new ... 🌱
+- I'm an Enterprise App Architect for Google Cloud ☁️
+- I enjoy finding solutions to hard problems raised by fellow developers and architects... then build some materials for them... then making them run really fast... 🏎
+- I learn something new every day ... 🌱
 - Generative AI in the Enterprise opens up endless possibilities 🆒
 - Last-drop serverless optimization is so much fun...🤔
 
 `✨ My skills ✨`  
 
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,gcp,aws,kubernetes,docker,performance&theme=light)
+![My Skills](https://skillicons.dev/icons?i=java,genAI,kotlin,gcp,aws,kubernetes,docker,performance&theme=light)
 
 `📫 Follow me`  
 
