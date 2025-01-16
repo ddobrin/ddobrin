@@ -8,7 +8,7 @@
 
 `✨ My skills ✨`  
 
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,gcp,aws,kubernetes,docker,performance&theme=light)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,gcp,aws,kubernetes,docker,performance,langchain4j&theme=light)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
